@@ -1,0 +1,1676 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Onlines</title>
+	<atom:link href="https://onlines.com.ar/feed/" rel="self" type="application/rss+xml" />
+	<link>https://onlines.com.ar</link>
+	<description>Hacemos internet</description>
+	<lastBuildDate>Fri, 09 Oct 2026 01:12:49 +0000</lastBuildDate>
+	<language>es-AR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.3</generator>
+
+<image>
+	<url>https://onlines.com.ar/wp-content/uploads/2026/03/cropped-favicon-32x32-1-32x32.png</url>
+	<title>Onlines</title>
+	<link>https://onlines.com.ar</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rosario Tech Week: Así usamos la IA para nuestros proyectos de diseño</title>
+		<link>https://onlines.com.ar/rosario-tech-week-asi-usamos-la-ia-para-nuestros-proyectos-de-diseno/</link>
+		
+		<dc:creator><![CDATA[Horacio Bella]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 01:10:16 +0000</pubDate>
+				<category><![CDATA[Diseño]]></category>
+		<guid isPermaLink="false">https://onlines.com.ar/?p=968</guid>
+
+					<description><![CDATA[Por una tarde vamos a abrir nuestro proceso creativo y mostrar lo que pasa dentro de Onlines cuando tenemos que diseñar sitios web y otros productos digitales para grandes empresas, gobiernos y organizaciones.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Una nueva edición de <a href="https://rosariotechweek.com/" target="_blank" rel="noopener">Rosario Tech Week</a> de la mano del <strong>Hub de Innovación</strong> y como siempre muy entusiasmados de formar parte.</p>
+
+
+
+<p class="wp-block-paragraph">Por una tarde vamos a abrir nuestro proceso creativo y mostrar lo que pasa dentro de <strong>Onlines</strong> cuando tenemos que diseñar sitios web y otros productos digitales para grandes empresas, gobiernos y organizaciones.</p>
+
+
+
+<p class="wp-block-paragraph">​Compartiremos cómo abordamos un proyecto, exploramos distintas direcciones y usamos inteligencia artificial para potenciar nuestro trabajo como diseñadores. Para qué sí, para qué no y en qué momento aparece el <em>“human in the loop”</em>.</p>
+
+
+<div class="embed-instagram wp-block-onlines-embed-instagram">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DeMYhBNER6X/" data-instgrm-version="14" style="width:100%;max-width:540px;margin:0;"></blockquote>
+</div>
+
+
+
+<p class="wp-block-paragraph">​Habrá networking distendido posterior al evento para conectar entre todos y ya pueden anotarse en <a href="https://luma.com/7venxcas" target="_blank" rel="noopener">https://luma.com/7venxcas</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>America.gov: diseño e inteligencia artificial para acercar el gobierno a los ciudadanos</title>
+		<link>https://onlines.com.ar/america-gov-diseno-inteligencia-artificial/</link>
+		
+		<dc:creator><![CDATA[Horacio Bella]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 16:00:21 +0000</pubDate>
+				<category><![CDATA[Diseño]]></category>
+		<guid isPermaLink="false">https://onlines.com.ar/?p=963</guid>
+
+					<description><![CDATA[America.gov utiliza diseño e inteligencia artificial para simplificar el acceso ciudadano a información distribuida en casi 29.000 sitios del Gobierno de Estados Unidos.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">El Gobierno de Estados Unidos presentó <a href="https://america.gov/" target="_blank" rel="noopener">America.gov</a>, una nueva puerta de entrada a la información pública desarrollada a través del National Design Studio. <a href="https://horaciobella.com/notas/el-diseno-como-politica-publica/" target="_blank" rel="noopener">Hablé más de como trabaja este estudio en mi blog</a>.</p>
+
+
+
+<p class="wp-block-paragraph">La propuesta busca resolver un problema frecuente en los sitios gubernamentales: la información existe, pero se encuentra distribuida entre organismos, estructuras administrativas y miles de páginas que los ciudadanos deben aprender a recorrer.</p>
+
+
+
+<p class="wp-block-paragraph">America.gov cambia ese punto de partida. En lugar de exigir que una persona sepa qué organismo posee la información, permite realizar preguntas mediante un chatbot que responde a partir del contenido disponible en casi 29.000 sitios del gobierno estadounidense.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="687" src="https://onlines.com.ar/wp-content/uploads/2026/09/america-gov-1024x687.webp" alt="" class="wp-image-964" srcset="https://onlines.com.ar/wp-content/uploads/2026/09/america-gov-1024x687.webp 1024w, https://onlines.com.ar/wp-content/uploads/2026/09/america-gov-300x201.webp 300w, https://onlines.com.ar/wp-content/uploads/2026/09/america-gov-768x515.webp 768w, https://onlines.com.ar/wp-content/uploads/2026/09/america-gov.webp 1471w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Inicio del sitio web america.gov</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Diseñar desde la necesidad del ciudadano</h2>
+
+
+
+<p class="wp-block-paragraph">Uno de los aspectos más interesantes del proyecto no es solamente la incorporación de inteligencia artificial, sino la decisión de organizar la experiencia alrededor de las preguntas de las personas.</p>
+
+
+
+<p class="wp-block-paragraph">Un sitio gubernamental tradicional suele comenzar por su propia estructura: ministerios, agencias, departamentos, programas y trámites. El ciudadano, en cambio, comienza con una necesidad concreta. Quiere saber cómo renovar un documento, acceder a un beneficio, cumplir una obligación o encontrar información confiable.</p>
+
+
+
+<p class="wp-block-paragraph">Diseñar para el ciudadano significa reducir esa distancia. La organización interna del Estado continúa existiendo, pero deja de convertirse en un requisito que las personas deben comprender antes de obtener una respuesta.</p>
+
+
+
+<p class="wp-block-paragraph">Este enfoque coincide con el objetivo que dio origen al <a href="https://americabydesign.gov/" target="_blank" rel="noopener">National Design Studio</a>: mejorar la presentación y la usabilidad de los servicios públicos digitales y físicos. La iniciativa fue creada para trabajar con organismos federales y mejorar la calidad de sus interacciones con la ciudadanía. <a href="https://www.whitehouse.gov/presidential-actions/2025/08/improving-our-nation-through-better-design/" target="_blank" rel="noopener">La Casa Blanca lo definió oficialmente como parte del programa America by Design</a>.</p>
+
+
+
+<h2 class="wp-block-heading">La tecnología como una capa de simplificación</h2>
+
+
+
+<p class="wp-block-paragraph">La inteligencia artificial permite consultar un volumen de información que sería muy difícil recorrer manualmente. El chatbot puede interpretar una pregunta, buscar entre fuentes oficiales y presentar una respuesta acompañada por referencias al contenido original.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">De acuerdo con la cobertura inicial del lanzamiento, <strong>America.gov</strong> se presenta como un servicio gratuito, sin publicidad ni necesidad de iniciar sesión, que utiliza fuentes gubernamentales y muestra citas para respaldar sus respuestas. — <a href="https://apnews.com/article/c6dd26d8e67270db543c37ac3762acd9" target="_blank" rel="noopener">Associated Press</a></p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">En un servicio público, esa trazabilidad es fundamental. Simplificar no debería significar ocultar el origen de la información. Las respuestas deben ser verificables, actuales, accesibles y permitir que el ciudadano llegue fácilmente a la fuente oficial.</p>
+
+
+
+<p class="wp-block-paragraph">El desafío no termina con publicar un chatbot. También será necesario evaluar su precisión, mantener actualizada la información y garantizar que la interfaz funcione para personas con diferentes capacidades, conocimientos y formas de acceso.</p>
+
+
+
+<p class="wp-block-paragraph">America.gov es interesante porque propone algo que puede aplicarse a muchos proyectos públicos: la tecnología no debería exponerle al ciudadano la complejidad del Estado, sino ayudarlo a atravesarla.</p>
+
+
+
+<p class="wp-block-paragraph">En Onlines creemos que el diseño cumple un papel central en ese proceso. Un buen producto digital no se limita a mostrar información: la organiza, la vuelve comprensible y permite que las personas encuentren lo que necesitan con el menor esfuerzo posible.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nuestra gestión del conocimiento: cómo documentamos</title>
+		<link>https://onlines.com.ar/nuestra-gestion-del-conocimiento-como-documentamos/</link>
+		
+		<dc:creator><![CDATA[Horacio Bella]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 18:20:44 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[agencia]]></category>
+		<guid isPermaLink="false">https://onlines.com.ar/?p=947</guid>
+
+					<description><![CDATA[Cuando pensamos en el trabajo de una agencia como la nuestra, lo más visible suele ser el resultado: un sitio web, una interfaz, una nueva funcionalidad o una infraestructura funcionando correctamente. Sin embargo, una parte importante del valor del trabajo permanece fuera de esa entrega final. Está en las decisiones que se tomaron, los criterios [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Cuando pensamos en el trabajo de una agencia como la nuestra, lo más visible suele ser el resultado: un sitio web, una interfaz, una nueva funcionalidad o una infraestructura funcionando correctamente.</p>
+
+
+
+<p class="wp-block-paragraph">Sin embargo, una parte importante del valor del trabajo permanece fuera de esa entrega final. Está en las decisiones que se tomaron, los criterios utilizados, las metodologías que funcionaron, los problemas que aparecieron y todo lo que el equipo aprendió durante el proceso.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">La gestión del conocimiento consiste en registrar, organizar, actualizar y compartir esa experiencia para que no dependa exclusivamente de la memoria de una persona.</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">Una <a href="https://www.notion.com/blog/institutional-knowledge-how-to-codify-it" target="_blank" rel="noopener">publicación de Notion sobre conocimiento institucional</a> explica que buena parte de lo que permite funcionar a una organización vive inicialmente en la cabeza de sus integrantes: responsabilidades, procesos, estándares y formas de resolver tareas. Cuando esa información no se documenta, puede resultar difícil encontrarla, transferirla o conservarla.</p>
+
+
+
+<p class="wp-block-paragraph">En Onlines trabajamos para que ese conocimiento forme parte de una base compartida y en permanente evolución.</p>
+
+
+
+<h2 class="wp-block-heading">Documentar no es una tarea para el final</h2>
+
+
+
+<p class="wp-block-paragraph">Nuestra documentación no comienza cuando un proceso está terminado ni cuando tenemos una versión perfecta para publicar.</p>
+
+
+
+<p class="wp-block-paragraph">Muchas veces empieza de una manera flexible: una nota tomada durante una reunión, el registro de una decisión, una explicación inicial, una lista de pasos o las conclusiones de una experiencia concreta.</p>
+
+
+
+<p class="wp-block-paragraph">Ese primer registro después se complementa, se ordena y se amplía a medida que el proceso avanza. Lo importante es que el conocimiento no se pierda mientras esperamos encontrar la forma ideal de documentarlo.</p>
+
+
+
+<p class="wp-block-paragraph">Con el tiempo, cada documento puede incorporar más contexto, ejemplos, relaciones con otros procesos y aprendizajes surgidos de nuevos proyectos.</p>
+
+
+
+<p class="wp-block-paragraph">Para nosotros, <strong>un documento no es una pieza cerrada</strong>. Es un recurso vivo cuyo valor depende tanto de poder consultarlo como de mantenerlo actualizado.</p>
+
+
+
+<h2 class="wp-block-heading">Notion como centro de nuestra base de conocimiento</h2>
+
+
+
+<p class="wp-block-paragraph">Utilizamos <strong>Notion</strong> para centralizar gran parte del conocimiento de la agencia. Allí documentamos aspectos que atraviesan el trabajo diario, entre ellos:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Procesos y metodologías de diseño.</li>
+
+
+
+<li>Procedimientos de desarrollo.</li>
+
+
+
+<li>Decisiones técnicas y sus fundamentos.</li>
+
+
+
+<li>Registros y conclusiones de reuniones.</li>
+
+
+
+<li>Métodos de soporte y seguimiento.</li>
+
+
+
+<li>Procedimientos administrativos.</li>
+
+
+
+<li>Criterios estratégicos.</li>
+
+
+
+<li>Información específica de los proyectos.</li>
+
+
+
+<li>Material para incorporar y capacitar nuevos integrantes.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Centralizar no significa obligar a que toda la información tenga el mismo formato. Algunos procesos requieren instrucciones detalladas, mientras que otros pueden comenzar con una explicación breve, una lista de decisiones o un conjunto de referencias.</p>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--100);padding-bottom:var(--wp--preset--spacing--100)">
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="https://onlines.com.ar/wp-content/uploads/2026/09/notion-wiki-1024x640.webp" alt="" class="wp-image-952" srcset="https://onlines.com.ar/wp-content/uploads/2026/09/notion-wiki-1024x640.webp 1024w, https://onlines.com.ar/wp-content/uploads/2026/09/notion-wiki-300x188.webp 300w, https://onlines.com.ar/wp-content/uploads/2026/09/notion-wiki-768x480.webp 768w, https://onlines.com.ar/wp-content/uploads/2026/09/notion-wiki-1536x960.webp 1536w, https://onlines.com.ar/wp-content/uploads/2026/09/notion-wiki.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">La <a href="https://www.notion.com/help/wikis-and-verified-pages" target="_blank" rel="noopener">herramienta de wiki de Notion</a> es un excelente punto de partida para equipos que quieran comenzar a documentar sus procesos </figcaption></figure>
+</div>
+
+
+
+<p class="wp-block-paragraph">Lo importante es que la información pueda encontrarse, comprenderse y relacionarse con el resto del trabajo.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading">Todo el equipo participa</h2>
+
+
+
+<p class="wp-block-paragraph">La documentación no depende de una única persona ni de un área aislada. Todo el equipo participa en distintos momentos y con diferentes niveles de frecuencia.</p>
+
+
+
+<p class="wp-block-paragraph">Hay procesos que cambian regularmente y necesitan revisiones frecuentes. Otros permanecen estables durante más tiempo. La periodicidad depende del tipo de conocimiento, del proyecto y del impacto que pueda tener una modificación.</p>
+
+
+
+<p class="wp-block-paragraph">Esta responsabilidad compartida permite que la base de conocimiento incorpore diferentes perspectivas. Diseño, desarrollo, gestión, soporte y administración pueden registrar no solamente qué se hizo, sino también por qué se tomó una determinada decisión.</p>
+
+
+
+<p class="wp-block-paragraph">La investigación académica sobre gestión organizacional distingue entre el conocimiento que surge de la experiencia individual y aquel que una organización consigue transformar en un recurso compartido. Ikujiro Nonaka describió esta construcción como un diálogo continuo entre el conocimiento tácito y el explícito. Otros trabajos posteriores organizaron la gestión del conocimiento alrededor de tres capacidades: crearlo, conservarlo y transferirlo. <a href="https://pubsonline.informs.org/doi/10.1287/orsc.5.1.14" target="_blank" rel="noopener">Nonaka, <em>Organization Science</em></a>, <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.49.4.571.14424" target="_blank" rel="noopener">Argote, McEvily y Reagans, <em>Management Science</em></a>.</p>
+
+
+
+<p class="wp-block-paragraph">En términos cotidianos, documentar permite que una experiencia deje de pertenecer solamente a quien la vivió y pueda convertirse en una <strong>herramienta para todo el equipo</strong>.</p>
+
+
+
+<h2 class="wp-block-heading">Una base fundamental para trabajar online</h2>
+
+
+
+<p class="wp-block-paragraph">Cuando un equipo trabaja de manera online o híbrida, no siempre todas las personas están disponibles al mismo tiempo. Si la información depende exclusivamente de una conversación o de recordar quién resolvió algo anteriormente, cada consulta puede convertirse en una interrupción o una espera innecesaria.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">Una base de conocimiento compartida permite que una persona pueda avanzar de manera autónoma, comprender el contexto de una decisión y encontrar los procedimientos relacionados con su tarea.</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">Esto no reemplaza las conversaciones ni el trabajo colaborativo. Por el contrario, permite que esas conversaciones comiencen desde un punto más avanzado y que el tiempo compartido pueda utilizarse para analizar, decidir y mejorar.</p>
+
+
+
+<h2 class="wp-block-heading">Incorporar personas sin empezar desde cero</h2>
+
+
+
+<p class="wp-block-paragraph">La documentación también forma parte del proceso de incorporación de quienes ingresan al equipo.</p>
+
+
+
+<p class="wp-block-paragraph">En lugar de depender solamente de una serie de explicaciones iniciales, cada persona puede acceder de manera organizada a información sobre la agencia, su función, los procesos relacionados con su trabajo y los criterios que utilizamos para tomar decisiones.</p>
+
+
+
+<p class="wp-block-paragraph">Esta base no reemplaza el acompañamiento de otras personas. Lo complementa y permite que el aprendizaje continúe después de las primeras reuniones.</p>
+
+
+
+<p class="wp-block-paragraph">La persona que se incorpora puede consultar, volver sobre un tema, encontrar ejemplos y entender cómo su tarea se relaciona con el resto del equipo. Todo esto genera un proceso de <em>onboarding</em> con mucha menos fricción.</p>
+
+
+
+<h2 class="wp-block-heading">La inteligencia artificial necesita contexto</h2>
+
+
+
+<p class="wp-block-paragraph">Nuestra base de conocimiento también se conecta con herramientas de inteligencia artificial como ChatGPT y Claude.</p>
+
+
+
+<p class="wp-block-paragraph">Esto permite que, al colaborar en determinadas tareas internas o en partes de un proyecto, la IA pueda contar con contexto sobre nuestras metodologías, procesos y formas de trabajar.</p>
+
+
+
+<p class="wp-block-paragraph">Una herramienta de inteligencia artificial puede tener capacidades generales muy amplias, pero no conoce automáticamente las decisiones particulares de una organización. Cuanto más claro, organizado y actualizado sea el conocimiento disponible, más relevantes pueden ser sus aportes.</p>
+
+
+
+<p class="wp-block-paragraph">La documentación ayuda a que la IA no trabaje solamente a partir de una instrucción aislada. Puede considerar <strong>antecedentes, criterios y aprendizajes construidos por el equipo</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">Eso no elimina la necesidad de supervisar, evaluar y tomar decisiones. La IA amplía las posibilidades de utilizar el conocimiento disponible, mientras que el criterio y la responsabilidad continúan siendo humanos.</p>
+
+
+
+<h2 class="wp-block-heading">El conocimiento de cada proyecto también se conserva</h2>
+
+
+
+<p class="wp-block-paragraph">Esta práctica no beneficia solamente al funcionamiento interno de Onlines. También nos permite mantener más ordenados los proyectos de nuestros clientes.</p>
+
+
+
+<p class="wp-block-paragraph">Durante un proyecto se producen muchas decisiones: <strong>objetivos, prioridades, definiciones de diseño, criterios técnicos, cambios de alcance, procedimientos y aprendizajes</strong>. Si esa información queda distribuida entre conversaciones, reuniones y la memoria de quienes participaron, resulta difícil recuperarla con el paso del tiempo.</p>
+
+
+
+<p class="wp-block-paragraph">Documentarla permite conservar la historia del proyecto y comprender por qué se llegó a una determinada solución. Esto es especialmente importante cuando acompañamos a un cliente durante varios años y el sitio web o producto digital continúa evolucionando.</p>
+
+
+
+<p class="wp-block-paragraph">Una buena documentación facilita:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Retomar decisiones anteriores.</li>
+
+
+
+<li>Dar continuidad al soporte.</li>
+
+
+
+<li>Incorporar nuevas personas al proyecto.</li>
+
+
+
+<li>Evitar que se repitan investigaciones o errores.</li>
+
+
+
+<li>Mantener criterios consistentes.</li>
+
+
+
+<li>Planificar nuevas etapas con mayor contexto.</li>
+
+
+
+<li>Tomar mejores decisiones frente a un incidente o una necesidad nueva.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">El resultado es un proyecto menos dependiente de personas individuales y con mejores condiciones para crecer de manera ordenada.</p>
+
+
+
+<h2 class="wp-block-heading">Documentar también ayuda a mejorar</h2>
+
+
+
+<p class="wp-block-paragraph">Escribir cómo hacemos algo nos obliga a revisarlo.</p>
+
+
+
+<p class="wp-block-paragraph">Cuando intentamos explicar un proceso aparecen pasos innecesarios, decisiones que necesitan más fundamentos y oportunidades para simplificar el trabajo. La documentación no solo conserva una metodología: también permite analizarla y mejorarla.</p>
+
+
+
+<p class="wp-block-paragraph">Por eso no buscamos construir un archivo estático de procedimientos. Buscamos una memoria compartida que evolucione junto con el equipo, las herramientas y los proyectos.</p>
+
+
+
+<h2 class="wp-block-heading">Convertir la experiencia en una capacidad del equipo</h2>
+
+
+
+<p class="wp-block-paragraph"><strong>El conocimiento institucional se construye todos los días</strong>. Aparece en una reunión, en una decisión técnica, en una prueba que no funcionó, en un procedimiento que fue mejorado o en una solución que puede volver a utilizarse.</p>
+
+
+
+<p class="wp-block-paragraph">Documentar permite que esa experiencia no se pierda y que pueda convertirse en una capacidad de toda la organización.</p>
+
+
+
+<p class="wp-block-paragraph">En Onlines combinamos una base de conocimiento viva, el aporte de todo el equipo y herramientas de inteligencia artificial para trabajar con mayor contexto, continuidad y autonomía. Esa misma forma de organizarnos también se refleja en cómo diseñamos, desarrollamos y acompañamos los proyectos de nuestros clientes.</p>
+
+
+
+<p class="wp-block-paragraph">Cuando una empresa trabaja con nosotros, no recibe solamente un resultado final. Construimos y conservamos el conocimiento necesario para comprender el proyecto, mantenerlo y ayudarlo a evolucionar en el tiempo.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Diseñando y desarrollando sitios web para empresas de Rosario</title>
+		<link>https://onlines.com.ar/diseno-desarrollo-web-empresas-rosario/</link>
+		
+		<dc:creator><![CDATA[Horacio Bella]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 19:36:02 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Diseño]]></category>
+		<category><![CDATA[Experiencia de usuario]]></category>
+		<category><![CDATA[Sitio web]]></category>
+		<guid isPermaLink="false">https://onlines.com.ar/?p=643</guid>
+
+					<description><![CDATA[Durante años desarrollamos proyectos para empresas y organizaciones de Latinoamérica, Estados Unidos y España. Hoy esa experiencia internacional también se refleja en una presencia cada vez mayor entre empresas de Rosario y la región que buscan equipos capaces de combinar calidad, cercanía y conocimiento del contexto local.]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<p class="wp-block-paragraph">Esta publicación viene a marcar una tendencia que muchas agencias nacionales que diseñan o hacen desarrollo de sitios web deben estar viviendo actualmente. Los cambios en la economía de nuestro país hicieron que nuevamente sea accesible para empresas nacionales acceder a los servicios que durante mucho tiempo convenía brindarlos hacia el exterior.</p>
+
+
+
+<p class="wp-block-paragraph">Así, a pesar de que muchos de nuestros clientes se encuentran en Latinoamérica, Estados Unidos y España, la cartera empieza a complementarse con clientes nacionales y sobre todo de nuestra ciudad. Muchos de ellos, que podrían acceder tranquilamente a proveedores de cualquier parte del mundo, confían en que llevar adelante proyectos con equipos con los que pueden reunirse presencialmente y con quienes comparten idiosincrasia llevará a mejores resultados.</p>
+
+
+
+<p class="wp-block-paragraph">Algunos proyectos en los que estuvimos trabajando:</p>
+
+
+
+<h2 class="wp-block-heading">Grupo Gamma, salud de Rosario</h2>
+
+
+
+<p class="wp-block-paragraph">Junto al grupo de salud más grande de la ciudad estuvimos trabajando recientemente en el rediseño de su sitio web. Luego de un proceso profundo de diseño de experiencia de usuario al que se le dedicaron varias semanas, decenas de entrevistas a pacientes y sesiones de trabajo en conjunto con distintos equipos pudimos avanzar en una nueva propuesta que se alinea a la perfección con el presente de la empresa.</p>
+
+
+
+<p class="wp-block-paragraph">Para <strong>Grupo Gamma</strong> su nuevo sitio web fue el inicio de un proceso de renovación digital que ya está llegando junto a nosotros a su sistema de gestión para pacientes y a otros productos de alta calidad.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="534" src="https://onlines.com.ar/wp-content/uploads/2026/09/grupo-gamma-web-1024x534.webp" alt="" class="wp-image-842" srcset="https://onlines.com.ar/wp-content/uploads/2026/09/grupo-gamma-web-1024x534.webp 1024w, https://onlines.com.ar/wp-content/uploads/2026/09/grupo-gamma-web-300x156.webp 300w, https://onlines.com.ar/wp-content/uploads/2026/09/grupo-gamma-web-767x400.webp 767w, https://onlines.com.ar/wp-content/uploads/2026/09/grupo-gamma-web.webp 1504w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Fundar, la constructora de la ciudad</h2>
+
+
+
+<p class="wp-block-paragraph">Trabajamos junto al referente de proyectos urbanísticos de la ciudad en el diseño y desarrollo de su sitio web y otros de sus productos. El desafío de <strong>Fundar</strong> se presentaba en la implementación de distintos sistemas de la empresa para que convivan de manera digital en un sitio web de alta complejidad.</p>
+
+
+
+<p class="wp-block-paragraph">Pudimos llevar adelante el proyecto que superó sus expectativas técnicas junto con un diseño que transmite la esencia y visión de la marca.</p>
+
+
+
+<h2 class="wp-block-heading">Rosental Inversiones</h2>
+
+
+
+<p class="wp-block-paragraph"><strong>Rosental Inversiones</strong> es una de las empresas de servicios financieros y desarrollo de negocios más destacadas del interior de Argentina, con sede central en la ciudad de Rosario. Con más de 40 años de trayectoria en el mercado, se consolida como un actor clave en la región agroindustrial, financiera y en esta última etapa en proyectos digitales.</p>
+
+
+
+<p class="wp-block-paragraph">Trabajamos con ellos en desarrollos como Locativa y Firmia, herramientas digitales que se complementan con sus demás rubros y donde el foco en la adquisición de nuevos clientes se vio reflejado en las estrategias que llevamos adelante en sus sitios web.</p>
+
+
+
+<h2 class="wp-block-heading">Valenziana Muebles</h2>
+
+
+
+<p class="wp-block-paragraph"><strong>Valenziana Muebles</strong> es una empresa referente en la fabricación y comercialización de mobiliario en Argentina. Con más de 30 años de evolución, la compañía transformó un taller familiar en un moderno complejo industrial de miles de metros cuadrados que genera un impacto socioeconómico directo en su comunidad de origen.</p>
+
+
+
+<p class="wp-block-paragraph">A través de una red de locales propios y franquicias distribuidas en las principales provincias argentinas comenzó una expansión en la que participamos en el diseño y desarrollo de herramientas web internas adaptadas. Un desafío que nos permitió entender la complejidad de su desarrollo comercial y la calidad de su trabajo.</p>
+
+
+
+<h2 class="wp-block-heading">Transdatos</h2>
+</div>
+
+
+
+<p class="wp-block-paragraph"><strong>Transdatos</strong> es una empresa pionera en tecnología, telecomunicaciones e infraestructura de datos fundada en Rosario, con más de 30 años de trayectoria en la provisión de soluciones integrales de conectividad para el sector corporativo, gubernamental y PyME.</p>
+
+
+
+<p class="wp-block-paragraph">Trabajamos junto a ellos en su rebranding, lo cual significó considerar todo el alcance de su marca. Un proceso exitoso que resultó en la renovación de su sitio web en cuanto a estrategia, diseño y desarrollo.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusión</h2>
+
+
+
+<p class="wp-block-paragraph">Estos proyectos tienen escalas, públicos y objetivos diferentes, pero comparten algo central: <a href="https://rosariotimes.com/con-quien-desarrollar-el-sitio-web-de-empresa-en-rosario/" target="_blank" rel="noopener">detrás de un buen sitio web tiene que existir un proceso capaz de comprender el negocio</a>, ordenar su complejidad y convertirla en una experiencia clara para las personas.</p>
+
+
+
+<p class="wp-block-paragraph">Trabajar con un equipo de la misma ciudad suma una forma particular de cercanía. Compartir el contexto, la idiosincrasia y muchas de las dinámicas del entorno permite comprender más rápido algunas necesidades, mantener conversaciones más directas y organizar encuentros presenciales cuando el proyecto lo requiere.</p>
+
+
+
+<p class="wp-block-paragraph">La ubicación, por sí sola, no garantiza un buen resultado. Pero cuando se combina con experiencia, capacidad técnica y una metodología colaborativa, puede convertirse en una ventaja concreta: menos distancia entre las ideas y las decisiones, mayor conocimiento del negocio y un equipo disponible para acompañar el proyecto más allá de su publicación.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La IA está cambiando la ciberseguridad: ¿está preparado tu sitio web?</title>
+		<link>https://onlines.com.ar/inteligencia-artificial-ciberseguridad-sitios-web/</link>
+		
+		<dc:creator><![CDATA[Horacio Bella]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 22:22:41 +0000</pubDate>
+				<category><![CDATA[Desarollo]]></category>
+		<category><![CDATA[ciberseguridad]]></category>
+		<category><![CDATA[inteligencia artificial]]></category>
+		<category><![CDATA[seguridad web]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<guid isPermaLink="false">https://onlines.com.ar/?p=833</guid>
+
+					<description><![CDATA[OpenAI publicó una carta que llama a fortalecer colectivamente la ciberdefensa frente al avance de la inteligencia artificial. Este nuevo escenario también alcanza a los sitios web y refuerza la importancia de desarrollarlos, mantenerlos y protegerlos responsablemente.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">OpenAI publicó una <a href="https://openai.com/collective-cyberdefense/" target="_blank" rel="noopener">carta abierta para impulsar una respuesta colectiva en ciberseguridad</a>. Su punto de partida es claro: a medida que los modelos de inteligencia artificial aumentan sus capacidades, también pueden hacerlo la velocidad, la escala y la sofisticación de los ciberataques.</p>
+
+
+
+<p class="wp-block-paragraph">Pero la IA no está solamente del lado de quienes atacan. También puede ayudar a detectar vulnerabilidades, analizar grandes cantidades de código, investigar incidentes y acelerar la preparación de soluciones.</p>
+
+
+
+<p class="wp-block-paragraph">Según la carta, existe una ventana de oportunidad para que los defensores aprovechen estas capacidades y fortalezcan los sistemas digitales antes de que los ataques asistidos por IA se vuelvan más frecuentes.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">La inteligencia artificial puede facilitar ataques más rápidos, pero también mejorar las herramientas defensivas. Para las empresas y organizaciones, la respuesta debe comenzar por lo esencial: desarrollar sitios web con criterios de seguridad, mantener sus componentes actualizados, proteger la infraestructura y supervisar continuamente su funcionamiento.</p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading">La inteligencia artificial cambia los dos lados de la ciberseguridad</h2>
+
+
+
+<p class="wp-block-paragraph">Muchas tareas de seguridad que antes requerían horas de análisis especializado pueden acelerarse con inteligencia artificial. Un modelo puede ayudar a recorrer código, reconocer patrones sospechosos, encontrar posibles vulnerabilidades y proponer correcciones.</p>
+
+
+
+<p class="wp-block-paragraph">Esas mismas capacidades también pueden utilizarse con objetivos maliciosos. La automatización permite analizar más sistemas, adaptar ataques y aprovechar errores con mayor rapidez.</p>
+
+
+
+<p class="wp-block-paragraph">Esto no significa que todos los ataques del futuro serán completamente autónomos ni que la IA pueda resolver por sí sola todos los problemas de seguridad. Significa que la velocidad está cambiando y que las organizaciones no deberían esperar a sufrir un incidente para revisar sus sistemas.</p>
+
+
+
+<h2 class="wp-block-heading">Los ataques del futuro pueden aprovechar problemas del presente</h2>
+
+
+
+<p class="wp-block-paragraph">La carta de OpenAI no habla únicamente de amenazas desconocidas. Entre los principales riesgos menciona problemas que existen desde hace años:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Software sin actualizar.</li>
+
+
+
+<li>Configuraciones incorrectas.</li>
+
+
+
+<li>Permisos excesivos.</li>
+
+
+
+<li>Sistemas antiguos o abandonados.</li>
+
+
+
+<li>Autenticación débil.</li>
+
+
+
+<li>Vulnerabilidades sin corregir.</li>
+
+
+
+<li>Deuda técnica acumulada.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Esto también alcanza a los sitios web.</p>
+
+
+
+<p class="wp-block-paragraph">Un plugin abandonado, una versión antigua de WordPress, una contraseña compartida, un formulario desarrollado sin controles adecuados o un servidor mal configurado pueden convertirse en puntos de entrada.</p>
+
+
+
+<p class="wp-block-paragraph">La llegada de herramientas más potentes no crea necesariamente esas debilidades. Lo que puede hacer es volver más sencillo encontrarlas y aprovecharlas.</p>
+
+
+
+<h2 class="wp-block-heading">La seguridad de un sitio web comienza durante su desarrollo</h2>
+
+
+
+<p class="wp-block-paragraph">La seguridad no debería incorporarse como un agregado después de publicar el sitio. Tiene que formar parte de las decisiones tomadas desde el comienzo.</p>
+
+
+
+<p class="wp-block-paragraph">Esto incluye elegir correctamente las tecnologías, revisar plugins y dependencias, desarrollar el código con criterios de seguridad, controlar cómo se procesan los datos y definir qué puede hacer cada usuario dentro del sistema.</p>
+
+
+
+<p class="wp-block-paragraph">También requiere separar los ambientes de desarrollo, pruebas y producción. De esta manera, los cambios pueden evaluarse antes de afectar el sitio que utilizan las personas.</p>
+
+
+
+<p class="wp-block-paragraph">Un desarrollo responsable no elimina todos los riesgos, pero reduce errores evitables y deja una base más sólida para mantener el proyecto en el tiempo.</p>
+
+
+
+<h2 class="wp-block-heading">Publicar el sitio no termina el trabajo</h2>
+
+
+
+<p class="wp-block-paragraph">Las tecnologías cambian. Se descubren nuevas vulnerabilidades, aparecen actualizaciones y los métodos de ataque evolucionan. Por eso, un sitio que era seguro cuando se publicó puede dejar de serlo si queda abandonado.</p>
+
+
+
+<p class="wp-block-paragraph">La seguridad web necesita continuidad:</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://onlines.com.ar/no-actualizar-tu-sitio-en-wordpress-puede-ser-muy-mala-idea/">Actualizar WordPress</a>, plugins y dependencias.</li>
+
+
+
+<li>Gestionar accesos y permisos.</li>
+
+
+
+<li>Proteger y mantener los servidores.</li>
+
+
+
+<li>Monitorear la disponibilidad y posibles incidentes.</li>
+
+
+
+<li>Realizar copias de seguridad.</li>
+
+
+
+<li>Revisar vulnerabilidades.</li>
+
+
+
+<li>Probar los cambios antes de publicarlos.</li>
+
+
+
+<li>Contar con acompañamiento cuando aparece un problema.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Las copias de seguridad, por ejemplo, son indispensables para la recuperación, pero no reemplazan la prevención. Del mismo modo, instalar una herramienta de seguridad no sustituye las actualizaciones, la revisión del código ni una infraestructura correctamente configurada.</p>
+
+
+
+<h2 class="wp-block-heading">La IA puede ayudar, pero alguien debe hacerse responsable</h2>
+
+
+
+<p class="wp-block-paragraph">Las herramientas basadas en inteligencia artificial pueden ampliar la capacidad de los equipos técnicos. Sin embargo, encontrar una posible vulnerabilidad no equivale a haber resuelto el problema.</p>
+
+
+
+<p class="wp-block-paragraph">La solución debe comprobarse, probarse y aplicarse sin afectar el funcionamiento del sistema. OpenAI describe este proceso defensivo como un recorrido que va desde la identificación de vulnerabilidades hasta la validación, el desarrollo de parches, la revisión y la implementación efectiva de las correcciones. <a href="https://openai.com/daybreak/" target="_blank" rel="noopener">Conocé su iniciativa Daybreak</a>.</p>
+
+
+
+<p class="wp-block-paragraph">Lo mismo sucede con el código generado mediante IA. Puede acelerar el desarrollo, pero debe ser comprendido, revisado y probado antes de llegar a producción.</p>
+
+
+
+<p class="wp-block-paragraph">Cuanto más automatizado sea el proceso, más importante será definir quién supervisa las decisiones y responde por el resultado.</p>
+
+
+
+<h2 class="wp-block-heading">Cómo trabajamos la seguridad en Onlines</h2>
+
+
+
+<p class="wp-block-paragraph">En Onlines entendemos que diseño, desarrollo, infraestructura y mantenimiento forman parte de un mismo proyecto.</p>
+
+
+
+<p class="wp-block-paragraph">Por eso, nuestro proceso incluye desarrollo de código a medida con criterios de seguridad, selección responsable de plugins y dependencias, gestión de permisos, ambientes separados y revisión de vulnerabilidades.</p>
+
+
+
+<p class="wp-block-paragraph">Después de la publicación continuamos trabajando sobre las actualizaciones, el mantenimiento de los servidores, el monitoreo, las copias de seguridad y la atención de incidentes.</p>
+
+
+
+<p class="wp-block-paragraph">No existe una solución que garantice seguridad absoluta. Sí existen formas responsables de reducir riesgos, detectar problemas y estar preparados para responder.</p>
+
+
+
+<h2 class="wp-block-heading">Una responsabilidad cada vez más importante</h2>
+
+
+
+<p class="wp-block-paragraph">La carta promovida por OpenAI plantea que la ciberdefensa necesita una respuesta colectiva. Las empresas de inteligencia artificial, los gobiernos, los proveedores tecnológicos y las organizaciones tienen responsabilidades diferentes, pero complementarias.</p>
+
+
+
+<p class="wp-block-paragraph">Dentro de esa cadena, los sitios web no son un detalle menor. Son canales de comunicación, herramientas de trabajo, puntos de contacto con clientes y, en muchos casos, espacios donde se procesan datos o se realizan operaciones importantes.</p>
+
+
+
+<p class="wp-block-paragraph">La inteligencia artificial puede modificar las amenazas y las herramientas disponibles para enfrentarlas. Lo que no cambia es la necesidad de construir con criterio, mantener lo que se publica y asumir la seguridad como una responsabilidad continua.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Trabajamos junto al Ministerio de Ambiente y Cambio Climático de Santa Fe</title>
+		<link>https://onlines.com.ar/trabajamos-junto-al-ministerio-de-ambiente-y-cambio-climatico-de-santa-fe/</link>
+		
+		<dc:creator><![CDATA[Julieta Cúneo]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 23:16:18 +0000</pubDate>
+				<category><![CDATA[Diseño]]></category>
+		<category><![CDATA[Desarollo]]></category>
+		<category><![CDATA[Sitio web]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<guid isPermaLink="false">https://onlines.com.ar/?p=813</guid>
+
+					<description><![CDATA[Diseñamos y desarrollamos el nuevo sitio web del Ministerio de Ambiente y Cambio Climático de Santa Fe. Una plataforma a medida que centraliza programas, trámites y noticias, facilita la comunicación con la ciudadanía y puede ser administrada por el propio equipo.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">El <strong>Ministerio de Ambiente y Cambio Climático de la Provincia de Santa Fe</strong> contaba con una gran cantidad de información sobre programas, trámites y noticias. Sin embargo, esos contenidos estaban distribuidos entre diferentes sitios y espacios digitales, algunos de los cuales no podían ser administrados directamente por su equipo.</p>
+
+
+
+<p class="wp-block-paragraph">El problema no era la falta de información, sino su dispersión. Encontrarla, actualizarla y utilizarla para comunicarse con la ciudadanía resultaba más complejo de lo necesario.</p>
+
+
+
+<p class="wp-block-paragraph">Desde Onlines diseñamos y desarrollamos una nueva plataforma que permitió reunir esos contenidos, organizarlos y convertirlos en una fuente central para la comunicación digital del Ministerio.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">Creamos un sitio institucional completamente a medida y autoadministrable que centraliza los programas, trámites y noticias del Ministerio. Onlines participó en todo el proceso: relevamiento, arquitectura de contenidos, diseño UX/UI, desarrollo, migración, despliegue, carga inicial, documentación y capacitación.</p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading">Centralizar la información para comunicar mejor</h2>
+
+
+
+<p class="wp-block-paragraph">El primer desafío fue comprender la información existente, reconocer cómo se encontraba distribuida y determinar cuál era la mejor manera de presentarla.</p>
+
+
+
+<p class="wp-block-paragraph">A partir de ese relevamiento definimos una arquitectura de contenidos organizada alrededor de tres áreas principales:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Programas</li>
+
+
+
+<li>Trámites</li>
+
+
+
+<li>Noticias</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Esta estructura permite que la ciudadanía encuentre con mayor facilidad la información pública y que el Ministerio cuente con un espacio propio desde el cual organizar su comunicación.</p>
+
+
+
+<p class="wp-block-paragraph">El sitio también funciona como fuente de referencia para otros canales. Cuando el equipo necesita comunicar una novedad mediante correo electrónico, WhatsApp u otro medio, puede dirigir a las personas hacia una página oficial, actualizada y con toda la información necesaria.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="563" src="https://onlines.com.ar/wp-content/uploads/2026/08/web-ministerio-ambiente-santa-fe-1024x563.webp" alt="" class="wp-image-817" srcset="https://onlines.com.ar/wp-content/uploads/2026/08/web-ministerio-ambiente-santa-fe-1024x563.webp 1024w, https://onlines.com.ar/wp-content/uploads/2026/08/web-ministerio-ambiente-santa-fe-300x165.webp 300w, https://onlines.com.ar/wp-content/uploads/2026/08/web-ministerio-ambiente-santa-fe-768x422.webp 768w, https://onlines.com.ar/wp-content/uploads/2026/08/web-ministerio-ambiente-santa-fe.webp 1512w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Una identidad digital propia</h2>
+
+
+
+<p class="wp-block-paragraph">El proyecto no consistió únicamente en reunir enlaces y contenidos. También fue necesario construir una experiencia visual que representara la identidad y la impronta comunicacional del Ministerio.</p>
+
+
+
+<p class="wp-block-paragraph">Trabajamos en el diseño UX/UI para definir jerarquías, recorridos y componentes que permitieran presentar una gran cantidad de información sin perder claridad.</p>
+
+
+
+<p class="wp-block-paragraph">La estética acompaña las particularidades en la gráfica del Ministerio de Ambiente y, al mismo tiempo, mantiene una relación coherente con el ecosistema digital del Gobierno de la Provincia de Santa Fe.</p>
+
+
+
+<p class="wp-block-paragraph">De esta manera, el Ministerio pasó a contar con un canal reconocible, pensado específicamente para sus contenidos y sus necesidades de comunicación.</p>
+
+
+
+<h2 class="wp-block-heading">Un WordPress desarrollado completamente a medida</h2>
+
+
+
+<p class="wp-block-paragraph">El sitio fue <a href="https://onlines.com.ar/wordpress-es-la-mejor-herramienta-para-administrar-un-sitio-web/">desarrollado en WordPress</a>, con la potencia de Gutenberg pero sin recurrir a un tema prediseñado ni a plugins innecesarios.</p>
+
+
+
+<p class="wp-block-paragraph">Creamos a medida el tema, los componentes y toda la experiencia de administración. Esto permitió adaptar la plataforma a la estructura real de los contenidos, en lugar de obligar al equipo a trabajar dentro de las limitaciones de una solución genérica.</p>
+
+
+
+<p class="wp-block-paragraph">El back-end fue diseñado para que las personas responsables de la comunicación puedan cargar, editar y organizar información sin contar con conocimientos técnicos avanzados.</p>
+
+
+
+<p class="wp-block-paragraph">También elaboramos documentación para facilitar el uso cotidiano de la plataforma y la incorporación de otras personas que deban administrarla en el futuro.</p>
+
+
+
+
+<div class="embed-instagram wp-block-onlines-embed-instagram">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Db_jCz3lnBe/" data-instgrm-version="14" style="width:100%;max-width:540px;margin:0;"></blockquote>
+</div>
+
+
+
+<h2 class="wp-block-heading">Un proceso integral y colaborativo</h2>
+
+
+
+<p class="wp-block-paragraph">Onlines participó en todas las etapas del proyecto:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Relevamiento de la información existente.</li>
+
+
+
+<li>Definición de la arquitectura de contenidos.</li>
+
+
+
+<li><a href="https://onlines.com.ar/diseno-web-centrado-en-el-usuario-y-sus-principios-clave/">Diseño de experiencia</a> y de interfaz.</li>
+
+
+
+<li>Desarrollo del sitio en WordPress.</li>
+
+
+
+<li>Migración y carga inicial.</li>
+
+
+
+<li>Despliegue en los servidores provinciales.</li>
+
+
+
+<li>Documentación y capacitación.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">El trabajo se realizó de manera colaborativa con el equipo del Ministerio. Para la implementación dentro de la infraestructura provincial también trabajamos junto con la Secretaría de Tecnología para la Gestión.</p>
+
+
+
+<p class="wp-block-paragraph">Esta participación integral permitió sostener una misma lógica desde el relevamiento inicial hasta la puesta en funcionamiento del sitio.</p>
+
+
+
+<h2 class="wp-block-heading">Una herramienta para la comunicación pública</h2>
+
+
+
+<p class="wp-block-paragraph">Un sitio institucional no debería ser solamente un lugar donde acumular contenidos. Tiene que ayudar a que la información pública pueda encontrarse, actualizarse y comunicarse con claridad.</p>
+
+
+
+<p class="wp-block-paragraph">El nuevo sitio le brinda al Ministerio de Ambiente y Cambio Climático un espacio propio para ordenar sus programas, facilitar el acceso a sus trámites y mantener informada a la ciudadanía.</p>
+
+
+
+<p class="wp-block-paragraph">También deja instalada una herramienta administrable y documentada, pensada para acompañar tanto al equipo actual como a quienes tengan que gestionarla en el futuro.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Un proyecto turbio para una noche de terror</title>
+		<link>https://onlines.com.ar/un-proyecto-turbio-para-una-noche-de-terror/</link>
+		
+		<dc:creator><![CDATA[Julieta Cúneo]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2026 03:15:42 +0000</pubDate>
+				<category><![CDATA[Marketing digital]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<guid isPermaLink="false">https://onlines.com.ar/?p=723</guid>
+
+					<description><![CDATA[Así diseñamos y desarrollamos la landing de Turbio en una jornada usando GPT-5.6 Sol, trabajo colaborativo y criterio profesional.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Un resumen rápido de un proyecto de pocas horas. </p>
+
+
+
+<p class="wp-block-paragraph">En colaboración con Turbio, diseñamos y desarrollamos en una jornada la landing para su experiencia de cine y terror en Gótika. Utilizamos GPT-5.6 Sol para explorar caminos visuales y acelerar el desarrollo, siempre con supervisión, decisiones humanas y trabajo en equipo.</p>
+
+
+
+<p class="wp-block-paragraph">Nos enteramos del evento, hicimos un ida y vuelta con Nicolás y en pocas horas ya estábamos trabajando. </p>
+
+
+
+<p class="wp-block-paragraph">Recibimos la información del evento y sus recursos gráficos, exploramos diferentes caminos visuales con GPT-5.6 Sol y, una vez elegida la dirección, trabajamos sobre la estructura y el desarrollo hasta llegar a la versión publicada.</p>
+
+
+
+<p class="wp-block-paragraph">El proceso fue experimental y veloz, pero no automático. La inteligencia artificial nos ayudó a producir, comparar e iterar. El criterio del equipo fue el que marcó el rumbo.</p>
+
+
+
+<h2 class="wp-block-heading">Una landing para una experiencia fuera de lo común</h2>
+
+
+
+<p class="wp-block-paragraph">Turbio es un colectivo cultural que crea experiencias en las que el cine dialoga con la arquitectura, la historia y el terror.</p>
+
+
+
+<p class="wp-block-paragraph">Para esta edición, la propuesta era proyectar <em>Saint Maud</em>, la película de Rose Glass, dentro del edificio de Mitre 1539 donde funcionaron El Reino y Gótika. El espacio volvería a abrir sus puertas por una única noche después de permanecer cerrado durante una década.</p>
+
+
+
+<p class="wp-block-paragraph">La landing debía comunicar información concreta —la película, el lugar, las funciones y las entradas—, pero también transmitir la atmósfera de la experiencia. No podía ser solamente una página informativa: tenía que sentirse parte del universo de Turbio.</p>
+
+
+
+<p class="wp-block-paragraph">Ese fue el punto de partida de la colaboración.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="2560" height="1529" src="https://onlines.com.ar/wp-content/uploads/2026/08/image-124-scaled.webp" alt="" class="wp-image-736" srcset="https://onlines.com.ar/wp-content/uploads/2026/08/image-124-scaled.webp 2560w, https://onlines.com.ar/wp-content/uploads/2026/08/image-124-300x179.webp 300w, https://onlines.com.ar/wp-content/uploads/2026/08/image-124-1024x612.webp 1024w, https://onlines.com.ar/wp-content/uploads/2026/08/image-124-768x459.webp 768w, https://onlines.com.ar/wp-content/uploads/2026/08/image-124-1536x917.webp 1536w, https://onlines.com.ar/wp-content/uploads/2026/08/image-124-2048x1223.webp 2048w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /><figcaption class="wp-element-caption">La identidad de Turbio en la landing del evento</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Partimos de una identidad, no de una página en blanco</h2>
+
+
+
+<p class="wp-block-paragraph">Turbio nos entregó la información del evento y una serie de recursos gráficos que ya contenían una identidad reconocible.</p>
+
+
+
+<p class="wp-block-paragraph">Nuestro trabajo consistió en interpretar esos elementos y transformarlos en una experiencia digital coherente. En lugar de aplicar una plantilla genérica, buscamos que la landing tuviera el mismo carácter que la propuesta cultural: oscura, inquietante, cinematográfica y atravesada por la historia del espacio.</p>
+
+
+
+<p class="wp-block-paragraph">La inteligencia artificial nos permitió explorar distintas posibilidades visuales con rapidez. Probamos composiciones, jerarquías y maneras de presentar el contenido hasta encontrar una dirección que representara correctamente al proyecto.</p>
+
+
+
+<p class="wp-block-paragraph">Una vez elegido ese camino, dejamos de trabajar sobre posibilidades generales y comenzamos a pulir una solución concreta.</p>
+
+
+
+<h2 class="wp-block-heading">Cómo fue nuestro proceso de trabajo</h2>
+
+
+
+<p class="wp-block-paragraph">El desarrollo se realizó de forma colaborativa y en equipo. Aunque todo ocurrió aproximadamente dentro de una jornada, hubo etapas diferenciadas.</p>
+
+
+
+<h3 class="wp-block-heading">1. Ordenamos la información</h3>
+
+
+
+<p class="wp-block-paragraph">Primero identificamos qué necesitaban encontrar las personas que llegaran a la landing: de qué se trataba la experiencia, qué película se proyectaba, dónde se realizaría, cuáles eran las funciones y cómo comprar las entradas.</p>
+
+
+
+<p class="wp-block-paragraph">La identidad visual era importante, pero la página también debía ser clara y fácil de recorrer.</p>
+
+
+
+<h3 class="wp-block-heading">2. Exploramos opciones visuales</h3>
+
+
+
+<p class="wp-block-paragraph">Utilizamos <a href="https://openai.com/index/gpt-5-6/" target="_blank" rel="noopener">GPT-5.6 Sol</a> para generar e iterar diferentes caminos visuales a partir de la información y los recursos de Turbio. En esta etapa buscamos posibilidades. No pretendíamos que la primera respuesta se convirtiera automáticamente en el producto final.</p>
+
+
+
+<h3 class="wp-block-heading">3. Elegimos una dirección</h3>
+
+
+
+<p class="wp-block-paragraph">El equipo analizó las propuestas y eligió el estilo que mejor representaba la identidad del evento. Esa selección fue una decisión humana basada en objetivos de comunicación, diseño y experiencia.</p>
+
+
+
+<p class="wp-block-paragraph">La velocidad para producir alternativas permitió dedicar más tiempo a compararlas y determinar cuál tenía más potencial.</p>
+
+
+
+<h3 class="wp-block-heading">4. Pulimos la estructura</h3>
+
+
+
+<p class="wp-block-paragraph">Con el camino visual definido, trabajamos sobre la organización de los contenidos, la jerarquía, el recorrido y las llamadas a la acción.</p>
+
+
+
+<p class="wp-block-paragraph">La landing quedó estructurada alrededor del manifiesto de Turbio, la película, el edificio, la experiencia, las funciones, los sponsors y el acceso a la venta de entradas.</p>
+
+
+
+<h3 class="wp-block-heading">5. Desarrollamos y revisamos</h3>
+
+
+
+<p class="wp-block-paragraph">Finalmente, llevamos la dirección seleccionada al desarrollo. Cada avance fue observado, probado y ajustado por el equipo antes de continuar.</p>
+
+
+
+<p class="wp-block-paragraph">La IA aceleró la ejecución, pero el proyecto avanzó mediante un ciclo de propuestas, revisión y corrección. El resultado puede verse en <a href="https://turbio.com.ar/" target="_blank" rel="noopener">turbio.com.ar</a>.</p>
+
+
+
+<h2 class="wp-block-heading">Qué es el vibe coding, explicado de manera simple</h2>
+
+
+
+<p class="wp-block-paragraph">El <em>vibe coding</em> es una forma de desarrollar software mediante instrucciones expresadas en lenguaje natural. En lugar de escribir manualmente cada línea de código desde el comienzo, una persona le explica a un modelo de inteligencia artificial qué quiere construir, observa el resultado y le indica qué debe cambiar.</p>
+
+
+
+<p class="wp-block-paragraph">El término fue difundido por el investigador Andrej Karpathy en <a href="https://x.com/karpathy/status/1886192184808149383">una publicación de febrero de 2025</a>. Desde entonces se utiliza para describir diferentes maneras de crear software conversando con modelos capaces de generar y modificar código.</p>
+
+
+
+<p class="wp-block-paragraph">En términos simples, el ciclo es el siguiente:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li>Explicamos qué queremos lograr.</li>
+
+
+
+<li>La IA genera una propuesta.</li>
+
+
+
+<li>Observamos cómo funciona.</li>
+
+
+
+<li>Indicamos qué debe corregirse o mejorarse.</li>
+
+
+
+<li>Repetimos el proceso hasta alcanzar el resultado buscado.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Una <a href="https://arxiv.org/abs/2607.21652" target="_blank" rel="noopener">revisión reciente de 47 fuentes, publicada como preprint</a>, describe el vibe coding como un proceso iterativo de intención, generación, evaluación y revisión. También señala que la evidencia sobre sus beneficios es más sólida en prototipos e interfaces que en sistemas críticos o proyectos cuyo mantenimiento debe evaluarse durante años.</p>
+
+
+
+<p class="wp-block-paragraph">Por eso, al menos desde nuestra mirada, vibe coding no significa aceptar todo lo que produce una herramienta ni olvidarse de cómo está construido el proyecto. Significa utilizar la IA para acelerar la exploración y la ejecución sin abandonar la supervisión profesional.</p>
+
+
+
+<h2 class="wp-block-heading">La diferencia está en el criterio</h2>
+
+
+
+<p class="wp-block-paragraph">La IA puede generar muchas variantes en poco tiempo. Lo que no puede hacer por sí sola es comprender completamente qué opción representa mejor a una marca, qué información necesita primero un usuario o qué decisión es conveniente para un proyecto particular.</p>
+
+
+
+<p class="wp-block-paragraph">En este caso, el equipo tuvo que:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Interpretar la identidad de Turbio.</li>
+
+
+
+<li>Entender el carácter cultural del evento.</li>
+
+
+
+<li>Evaluar las alternativas visuales.</li>
+
+
+
+<li>Elegir una dirección.</li>
+
+
+
+<li>Organizar la información.</li>
+
+
+
+<li>Revisar el resultado.</li>
+
+
+
+<li>Decidir cuándo una propuesta estaba lista para publicarse.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Todo esto a contrareloj.</p>
+
+
+
+<p class="wp-block-paragraph">Un <a href="https://arxiv.org/abs/2602.10473" target="_blank" rel="noopener">estudio experimental sobre vibe coding con 604 participantes</a> encontró que las indicaciones humanas de alto nivel fueron especialmente efectivas durante las sucesivas iteraciones. Es decir, la capacidad de orientar el proceso sigue siendo determinante incluso cuando la IA produce gran parte del código.</p>
+
+
+
+<p class="wp-block-paragraph">Esta idea también aparece en las recomendaciones de <a href="https://cheatsheetseries.owasp.org/cheatsheets/Secure_Coding_with_AI_Cheat_Sheet.html" target="_blank" rel="noopener">OWASP sobre programación segura con IA</a>: todo cambio generado con asistencia de inteligencia artificial debe tener una persona responsable de revisarlo, aprobarlo y hacerse cargo de su mantenimiento.</p>
+
+
+
+<p class="wp-block-paragraph">La herramienta puede acelerar el trabajo. La responsabilidad sigue siendo humana.</p>
+
+
+
+<h2 class="wp-block-heading">Qué nos permitió hacer GPT-5.6 Sol</h2>
+
+
+
+<p class="wp-block-paragraph">Para este proyecto utilizamos GPT-5.6 Sol de ChatGPT como herramienta de asistencia durante la exploración visual y el desarrollo.</p>
+
+
+
+<p class="wp-block-paragraph">Su participación no consistió en recibir una única instrucción y entregar una landing terminada. Trabajamos de forma iterativa: pedimos opciones, analizamos lo generado, elegimos una dirección y continuamos refinando el resultado.</p>
+
+
+
+<p class="wp-block-paragraph">Este proceso permitió reducir el tiempo necesario para pasar de una idea a una versión funcional. También hizo posible probar caminos visuales que, mediante un proceso tradicional, habrían requerido más tiempo de producción antes de poder compararlos.</p>
+
+
+
+<p class="wp-block-paragraph">La velocidad fue una consecuencia de combinar una herramienta potente con información clara, recursos gráficos definidos y un equipo capaz de tomar decisiones.</p>
+
+
+
+<h2 class="wp-block-heading">Una jornada no es una promesa para cualquier proyecto</h2>
+
+
+
+<p class="wp-block-paragraph">Que esta landing se haya diseñado y desarrollado en aproximadamente una jornada no significa que todos los proyectos web puedan —o deban— resolverse en ese plazo.</p>
+
+
+
+<p class="wp-block-paragraph">El alcance era concreto, la información estaba disponible y Turbio contaba con una identidad sobre la cual trabajar. Además, la colaboración permitió tomar decisiones con agilidad.</p>
+
+
+
+<p class="wp-block-paragraph">Un sitio institucional, una tienda online, una plataforma con usuarios o un desarrollo integrado con sistemas externos presentan otras necesidades. Requieren diferentes instancias de investigación, arquitectura, seguridad, pruebas, contenido y mantenimiento.</p>
+
+
+
+<p class="wp-block-paragraph">El aprendizaje no es que ahora cualquier sitio puede hacerse en un día. El aprendizaje es que, bajo las condiciones adecuadas, la inteligencia artificial puede acortar significativamente la distancia entre una idea y una primera solución de calidad.</p>
+
+
+
+<h2 class="wp-block-heading">Diseño, desarrollo y colaboración</h2>
+
+
+
+<p class="wp-block-paragraph">La landing de Turbio surgió de una experiencia experimental, pero también de una forma de trabajo que en Onlines consideramos fundamental: integrar diseño y desarrollo desde el comienzo.</p>
+
+
+
+<p class="wp-block-paragraph">No pensamos primero una pieza visual aislada para después intentar convertirla en código. Exploramos las posibilidades visuales considerando que debían convertirse en una experiencia web funcional, clara y adaptable.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Publicar en tu sitio web y distribuir en otros lugares</title>
+		<link>https://onlines.com.ar/publicar-en-tu-sitio-web-y-distribuir-en-otros-lugares/</link>
+		
+		<dc:creator><![CDATA[Horacio Bella]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2026 18:47:48 +0000</pubDate>
+				<category><![CDATA[Presencia online]]></category>
+		<guid isPermaLink="false">https://onlines.com.ar/?p=644</guid>
+
+					<description><![CDATA[Conocé la metodología POSSE: publicar primero en tu propio sitio web y distribuir después en redes, newsletters y otros canales para ganar control, SEO y autoridad digital.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Muchos construyen su comunicación digital alrededor de redes sociales, plataformas de terceros o campañas aisladas. Luego de trabajar con cientos de empresas, gobiernos y organizaciones notamos que las que mejores resultados obtienen lo hacen de otra manera: construyen dentro de su propio sitio web, porque es el espacio donde se tiene control, se ordena el mensaje y se construye valor a largo plazo.</p>
+
+
+
+<p class="wp-block-paragraph">Las redes sociales, las plataformas de video, los perfiles en Google, los envíos por email y los anuncios pueden ser canales muy valiosos. Pero ninguno de ellos reemplaza a un sitio propio, bien construido, actualizado y pensado como una base de contenidos, autoridad y conversión.</p>
+
+
+
+<p class="wp-block-paragraph">Esa forma de trabajar tiene un nombre cada vez más usado en el mundo digital: <strong>POSSE</strong>, una sigla en inglés que significa <em>Publish on your Own Site, Syndicate Elsewhere</em>. En español: <strong>publicá primero en tu propio sitio y después distribuí ese contenido en otros lugares</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">La idea es simple, pero muy poderosa para cualquier empresa que quiera construir presencia digital a largo plazo.</p>
+
+
+
+<h2 class="wp-block-heading">Qué significa publicar primero en tu propio sitio</h2>
+
+
+
+<p class="wp-block-paragraph">Publicar primero en tu sitio significa que el contenido original vive en un lugar que tu organización controla: su sitio web, su dominio, su blog, su sección de novedades, su centro de recursos o su página institucional.</p>
+
+
+
+<p class="wp-block-paragraph">Después, ese mismo contenido puede adaptarse y distribuirse en otros canales: LinkedIn, Instagram, Facebook, newsletters, Google Business Profile, Medium, YouTube, WhatsApp o cualquier otra plataforma donde esté tu audiencia.</p>
+
+
+
+<p class="wp-block-paragraph">La diferencia está en el orden.</p>
+
+
+
+<p class="wp-block-paragraph">No se trata de abandonar las redes sociales. Se trata de dejar de depender exclusivamente de ellas.</p>
+
+
+
+<p class="wp-block-paragraph">Cuando una empresa publica solo en redes, su contenido queda atado a reglas externas: cambios de algoritmo, formatos limitados, pérdida de alcance, cierres de cuentas, restricciones de visibilidad o simplemente el paso del tiempo. Una publicación que hoy funciona puede desaparecer del radar en pocos días.</p>
+
+
+
+<p class="wp-block-paragraph">En cambio, cuando el contenido nace en el sitio web, queda disponible como parte del patrimonio digital de la empresa. Tiene una URL propia, puede posicionar en buscadores, puede ser la respuesta a una pregunta que se le hace a la IA, puede servir como fuente para asistentes de inteligencia artificial o agentes que necesiten interpretar información confiable sobre la empresa, puede ser citado, compartido, actualizado y reutilizado.</p>
+
+
+
+<h2 class="wp-block-heading">Por qué esto es importante</h2>
+
+
+
+<p class="wp-block-paragraph">Muchas organizaciones invierten tiempo y dinero en generar contenido, pero lo hacen en espacios que no controlan. Publican consejos en Instagram, novedades en LinkedIn, promociones en Facebook o explicaciones técnicas en hilos que después son difíciles de encontrar.</p>
+
+
+
+<p class="wp-block-paragraph">El problema no es usar esos canales. El problema es que todo empiece y termine ahí.</p>
+
+
+
+<p class="wp-block-paragraph">Puedo citar a varios que hace algunos años invirtieron mucho tiempo y dinero para conseguir seguidores en una página de Facebook. Esos seguidores ya no están en esa plataforma y la página quedó abandonada.</p>
+
+
+
+<p class="wp-block-paragraph">El camino correcto sería el de construir activos digitales. Y un buen artículo publicado en su sitio web es un activo: puede traer visitas durante meses o años, responder preguntas frecuentes de clientes, mejorar la autoridad de la marca y alimentar otros canales de comunicación.</p>
+
+
+
+<p class="wp-block-paragraph">Por ejemplo, una empresa puede publicar en su blog una guía sobre cómo elegir un servicio, cómo resolver un problema frecuente o qué tener en cuenta antes de contratar. Luego puede transformar esa misma pieza en una publicación de LinkedIn, una serie de historias, un email comercial, un video corto o una respuesta para enviar por WhatsApp.</p>
+
+
+
+<p class="wp-block-paragraph">El contenido original queda en casa. Los demás canales ayudan a distribuirlo.</p>
+
+
+
+<h2 class="wp-block-heading">El sitio web como centro de la estrategia digital</h2>
+
+
+
+<p class="wp-block-paragraph">Pensar el sitio web como centro no significa tener una web estática que se actualiza una vez cada varios años. Significa usarlo como una plataforma viva.</p>
+
+
+
+<p class="wp-block-paragraph">Si pensamos puntualmente en una empresa su sitio web podría contar con:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Artículos educativos.</li>
+
+
+
+<li>Casos de éxito.</li>
+
+
+
+<li>Guías para clientes.</li>
+
+
+
+<li>Novedades de la empresa.</li>
+
+
+
+<li>Preguntas frecuentes.</li>
+
+
+
+<li>Comparativas de servicios.</li>
+
+
+
+<li>Recursos descargables.</li>
+
+
+
+<li>Páginas optimizadas por solución, rubro o ubicación.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Cada una de esas piezas ayuda a que la empresa sea más fácil de encontrar, más clara al explicar lo que hace y más confiable para quien está evaluando una compra o contratación.</p>
+
+
+
+<p class="wp-block-paragraph">Esta estructura además puede responder a preguntas que alguien pueda estar haciéndole a la IA y hasta operar con agentes para que puedan avanzar en la toma de decisiones.</p>
+
+
+
+<h2 class="wp-block-heading">Qué cambia frente a publicar solo en redes sociales</h2>
+
+
+
+<p class="wp-block-paragraph">Las redes sociales están diseñadas para la inmediatez. Son útiles para generar conversación, visibilidad y contacto frecuente. Pero no siempre son buenas como archivo, como fuente de consulta o como base de conocimiento.</p>
+
+
+
+<p class="wp-block-paragraph">Un potencial cliente que busca una solución en Google o hace una pregunta en ChatGPT no necesariamente va a encontrar una publicación vieja de Instagram. Pero sí puede encontrar un artículo bien optimizado en el sitio de una empresa.</p>
+
+
+
+<p class="wp-block-paragraph">Un gerente que está comparando proveedores probablemente necesite algo más claro y completo que una placa o un reel. Un artículo bien escrito puede ayudarlo a entender el problema, evaluar alternativas y avanzar hacia una consulta.</p>
+
+
+
+<p class="wp-block-paragraph">También hay una cuestión de independencia. Las plataformas cambian. Los algoritmos cambian. Los formatos se ponen de moda y después pierden fuerza. Pero el dominio de una empresa, si está bien mantenido, sigue siendo suyo.</p>
+
+
+
+<p class="wp-block-paragraph">Por eso POSSE no es una moda técnica sino una metodología de comunicación ordenada: primero construir en terreno propio, después amplificar en terrenos ajenos.</p>
+
+
+
+<h2 class="wp-block-heading">Beneficios para SEO y GEO</h2>
+
+
+
+<p class="wp-block-paragraph">Publicar primero en el sitio web también es importante para el SEO tradicional y para el nuevo escenario de búsquedas asistidas por inteligencia artificial, muchas veces llamado GEO: <em>Generative Engine Optimization</em>.</p>
+
+
+
+<p class="wp-block-paragraph">Para SEO, el beneficio es claro: Google necesita páginas indexables, bien estructuradas y útiles para mostrar resultados. Si una empresa responde preguntas reales en su sitio, tiene más oportunidades de aparecer cuando un potencial cliente busca información.</p>
+
+
+
+<p class="wp-block-paragraph">Para GEO, el razonamiento es similar. Los sistemas de IA tienden a apoyarse en fuentes claras, consistentes y confiables. Una empresa que publica contenido propio, explicativo y bien organizado aumenta sus posibilidades de ser comprendida como una fuente relevante dentro de su sector.</p>
+
+
+
+<p class="wp-block-paragraph">Esto tampoco significa tener que escribir para robots. Significa explicar mejor para las personas y estructurar mejor para que los buscadores y asistentes puedan interpretar el contenido.</p>
+
+
+
+<p class="wp-block-paragraph">Una entrada bien trabajada puede responder preguntas como:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Qué problema resuelve este servicio.</li>
+
+
+
+<li>Cuándo conviene contratarlo.</li>
+
+
+
+<li>Qué errores evitar.</li>
+
+
+
+<li>Qué beneficios tiene para una empresa.</li>
+
+
+
+<li>Qué diferencia a una solución profesional de una improvisada.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Ese tipo de contenido ayuda a vender sin sonar agresivo, porque educa antes de ofrecer.</p>
+
+
+
+<h2 class="wp-block-heading">La metodología que recomendamos</h2>
+
+
+
+<p class="wp-block-paragraph">Nosotros creemos que una empresa necesita una presencia digital propia, clara y preparada para crecer. Las redes sociales son importantes, pero no deberían ser el único lugar donde vive la comunicación de una marca.</p>
+
+
+
+<p class="wp-block-paragraph">Un sitio web bien desarrollado permite ordenar la propuesta comercial, explicar servicios, captar consultas, publicar contenidos y construir autoridad. Si además se trabaja con una estrategia de contenidos, ese sitio deja de ser una vidriera estática y se convierte en una herramienta comercial.</p>
+
+
+
+<p class="wp-block-paragraph">POSSE resume muy bien esa idea: publicar primero donde la empresa tiene control y luego distribuir donde está la audiencia.</p>
+
+
+
+<p class="wp-block-paragraph">No se trata de elegir entre sitio web o redes sociales. Se trata de darles el rol correcto. El sitio web debe ser la base. Las redes, los buscadores, el email y otros canales deben ser caminos que llevan a esa base.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">La distribución en redes no debería funcionar como una copia aislada, sino como una puerta de entrada.</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">Cada publicación derivada debería llevar, cuando tenga sentido, al contenido original publicado en el sitio web. Así, la conversación puede empezar en LinkedIn, Instagram o una newsletter, pero la fuente principal sigue siendo la web de la organización.</p>
+
+
+
+<p class="wp-block-paragraph">En esta metodología, la URL del sitio propio funciona como referencia principal. Es el enlace que se puede compartir, indexar, citar, actualizar y medir. Las plataformas externas pueden cambiar, pero esa dirección sigue perteneciendo a la empresa.</p>
+
+
+
+<p class="wp-block-paragraph">Los clientes con los que trabajamos esta estrategia son los que pudieron conseguir resultados que se extendieron en el tiempo. Ya no dependen de la viralidad de una campaña ni de la inversión que vayan a destinar a la pauta. Tienen una estructura sólida y perdurable que les facilita conseguir sus objetivos.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WordPress avanza hacia la edición colaborativa con comentarios en los bloques</title>
+		<link>https://onlines.com.ar/wordpress-avanza-hacia-la-edicion-colaborativa-con-comentarios-en-los-bloques/</link>
+		
+		<dc:creator><![CDATA[Mateo Martini]]></dc:creator>
+		<pubDate>Sun, 16 Mar 2025 14:25:57 +0000</pubDate>
+				<category><![CDATA[Desarollo]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Gutenberg]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<guid isPermaLink="false">https://onlines.com.ar/?p=631</guid>
+
+					<description><![CDATA[En las versión actual de Gutenberg (versión 20.4.0), el plugin de WordPress que expande las funcionalidades que ya vienen en el core del CMS, podemos encontrar la opción experimental llamada Colaboración: Añade comentarios a nivel de bloque. Esto permite al ser activado comenzar a realizar comentarios dentro de la edición de los bloques con el [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<p class="wp-block-paragraph">En las versión actual de Gutenberg (<em>versión 20.4.0</em>), el plugin de WordPress que expande las funcionalidades que ya vienen en el core del CMS, podemos encontrar la opción experimental llamada <strong>Colaboración: Añade comentarios a nivel de bloque</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">Esto permite al ser activado comenzar a realizar comentarios dentro de la edición de los bloques con el claro objetivo de avanzar hacia un entorno más colaborativo de edición de contenidos y desarrollo. Esta opción permitiría a editores, diseñadores y desarrolladores estar trabajando sobre el mismo bloque con una mejor comunicación.</p>
+
+
+
+<p class="wp-block-paragraph">Sin dudas esto apunta a solucionar una de las situaciones engorrosas que hemos experimentado todos los que trabajamos alguna vez en equipo sobre un desarrollo de WordPress: pisar cambios, esperar que otro termine de trabajar, etc.</p>
+</div>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--60);margin-bottom:var(--wp--preset--spacing--60)">
+<figure class="wp-block-image alignwide size-full"><img decoding="async" src="https://onlines.com.ar/wp-content/uploads/2025/03/image.png" alt="" class="wp-image-632"/><figcaption class="wp-element-caption">Los comentarios permiten una colaboración más prolija de los equipos</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading">WordPress más colaborativo</h2>
+
+
+
+<p class="wp-block-paragraph">La propuesta de <strong>comentarios en línea para bloques</strong> en WordPress Gutenberg tiene una clara inspiración en herramientas colaborativas modernas como <strong>Figma</strong>, y esto podría ser clave para el futuro éxito de WordPress como plataforma de creación de contenido.</p>
+
+
+
+<p class="wp-block-paragraph">El equipo de WordPress, especialmente con la Fase 3 del Proyecto Gutenberg, busca replicar ese mismo espíritu colaborativo que ha hecho de Figma un estándar:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Comentarios en bloques específicos</strong>: Igual que en Figma, los editores podrán dejar sugerencias o preguntar sobre un bloque concreto (texto, imagen, encabezado, etc.), sin perderse en cadenas de emails o chats externos.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Seguimiento de revisión de contenido</strong>: Al vincular los comentarios con las revisiones de WordPress, los creadores podrán rastrear qué sugerencias se aplicaron y cuáles no, como en las revisiones de diseño de Figma.</li>
+
+
+
+<li><strong>Flujo de trabajo ágil y colaborativo</strong>: Imaginemos a un diseñador, un copywriter y un gerente de contenido trabajando juntos, dejando comentarios y resolviendo dudas sin salir del editor de WordPress. Esto elimina la necesidad de múltiples herramientas externas y acelera la publicación.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Actualmente solo podemos utilizarlo dentro de las opciones experimentales pero esperamos tener pronto esta opción por defecto en el gestor de contenidos.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The SEO Framework para WordPress y por qué lo usamos</title>
+		<link>https://onlines.com.ar/the-seo-framework-para-wordpress-y-por-que-lo-usamos/</link>
+		
+		<dc:creator><![CDATA[Mateo Martini]]></dc:creator>
+		<pubDate>Sat, 29 Jun 2024 14:54:14 +0000</pubDate>
+				<category><![CDATA[Marketing digital]]></category>
+		<category><![CDATA[Posicionamiento en buscadores]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<guid isPermaLink="false">https://onlines.com.ar/?p=617</guid>
+
+					<description><![CDATA[Creo que no hace falta que expliquemos la importancia del SEO y de por qué WordPress es una herramienta que nos facilita mucho el poder posicionar nuestro sitio web en los resultados de búsqueda. Es por esto que vamos a pasar a hablar rápidamente de por qué el plugin que usamos ya hace un tiempo [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<p class="wp-block-paragraph">Creo que no hace falta que expliquemos la importancia del SEO y de por qué WordPress es una herramienta que nos facilita mucho el poder posicionar nuestro sitio web en los resultados de búsqueda. Es por esto que vamos a pasar a hablar rápidamente de por qué el plugin que usamos ya hace un tiempo para potenciar esto es <strong>The SEO Framework</strong>.</p>
+
+
+
+<h2 class="wp-block-heading">Nosotros y el SEO</h2>
+
+
+
+<p class="wp-block-paragraph">Además de un profundo trabajo de experiencia de usuario, de que el sitio sea totalmente administrable y de muchos factores más, el motivo principal por el cual muchos clientes eligen trabajar con nosotros es por el tipo de optimización para motores de búsqueda que realizamos. No concebimos un proyecto sin este aspecto y es por eso que tiene un papel fundamental en nuestro proceso de trabajo. Ahora bien, dicho esto, ¿cómo lo hacemos?</p>
+</div>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow" style="margin-top:var(--wp--preset--spacing--60);margin-bottom:var(--wp--preset--spacing--60)">
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="1920" height="1050" src="https://onlines.com.ar/wp-content/uploads/2024/06/the-seo-framework-wordpress.webp" alt="" class="wp-image-623" style="width:1201px;height:auto" srcset="https://onlines.com.ar/wp-content/uploads/2024/06/the-seo-framework-wordpress.webp 1920w, https://onlines.com.ar/wp-content/uploads/2024/06/the-seo-framework-wordpress-300x164.webp 300w, https://onlines.com.ar/wp-content/uploads/2024/06/the-seo-framework-wordpress-1024x560.webp 1024w, https://onlines.com.ar/wp-content/uploads/2024/06/the-seo-framework-wordpress-768x420.webp 768w, https://onlines.com.ar/wp-content/uploads/2024/06/the-seo-framework-wordpress-1536x840.webp 1536w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /></figure>
+</div>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<p class="wp-block-paragraph">Antes de responder como lo hacemos ahora vamos a hacer un repaso de como lo hacíamos antes y si bien es fácil de explicarlo era bastante difícil de hacer. En resumen, hacíamos todo a mano. Cada campo administrable, cada <code>meta tag</code>, cada opción que vaya a tener impacto en el SEO la habíamos desarrollado a medida para que nuestro cliente pueda utilizarla. Habíamos desarrollado un plugin que estaba integrado en el mismo theme y que permitía hacer todo esto. Los <em>pro</em> eran que funcionaba muy bien y que era totalmente personalizable. Las <em>contras</em> eran que requería mucho mantenimiento ya que requería que todo se mantuviera al día según las nuevas herramientas, las directrices de Google, etc. </p>
+
+
+
+<p class="wp-block-paragraph">Había plugins de desarrollo externo dando vuelta pero todos nos parecían muy intrusivos, muy complejos para el usuario y poco efectivos. Bajo nuestra filosofía de usar la menor cantidad de plugins posibles siempre terminábamos descartando estas opciones.</p>
+
+
+
+<h2 class="wp-block-heading">The SEO Framework</h2>
+
+
+
+<p class="wp-block-paragraph">No recuerdo como conocimos este plugin pero desde un primer momento nos dimos cuenta que cumplía con lo que estábamos buscando: ser prolijo, ser funcional y hacer exactamente lo que habíamos desarrollado nosotros a mano. Con la ventaja de tener una comunidad detrás mejorándolo todo el tiempo.</p>
+
+
+
+<h2 class="wp-block-heading">Por qué usarlo</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Ligero y rápido:</strong> A diferencia de otros plugins SEO más pesados, <a href="https://theseoframework.com/" target="_blank" rel="noopener">The SEO Framework</a> es conocido por su velocidad y eficiencia, lo que lo convierte en una buena opción para sitios web que buscan un rendimiento óptimo.</li>
+
+
+
+<li><strong>Enfoque en lo esencial:</strong> El plugin se centra en las funciones SEO más importantes, sin agregar opciones o herramientas innecesarias que puedan complicar su uso. Esto lo hace ideal para usuarios principiantes o aquellos que buscan una solución simple y efectiva.</li>
+
+
+
+<li><strong>Altamente personalizable:</strong> The SEO Framework ofrece una gran variedad de opciones de configuración para que puedas adaptarlo a las necesidades específicas de tu sitio web. Puedes ajustar diferentes aspectos como metadatos, breadcrumbs, sitemaps y más.</li>
+
+
+
+<li><strong>Extensible:</strong> El plugin cuenta con una API abierta que permite a desarrolladores crear extensiones y plugins complementarios, extendiendo aún más su funcionalidad.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Conclusión</h2>
+
+
+
+<p class="wp-block-paragraph">Si nunca usaste un plugin de SEO, si hacías todo el trabajo a mano o si ya Yoast no te está dando resultados recomendamos que pruebes este plugin en tu próximo proyecto.</p>
+</div>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)">
+<div class="wp-block-buttons is-horizontal is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-custom-azul-background-color has-background has-normal-font-size has-custom-font-size wp-element-button" href="https://onlines.com.ar/contacto/whatsapp" style="padding-top:var(--wp--preset--spacing--80);padding-right:50px;padding-bottom:var(--wp--preset--spacing--80);padding-left:50px" target="_blank" rel="noreferrer noopener nofollow">Potencia tu SEO con nosotros</a></div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
